@@ -1,0 +1,321 @@
+body 
+{               
+	font-family: Trebuchet MS, Liberation Sans, DejaVu Sans, sans-serif;
+	color: white; 
+	background-color: #33446A; 
+}
+
+.test
+{  
+	background-color: #fea73d;
+}
+
+.header
+{         
+	text-align: center;           
+	font-family: Georgia, "Times New Roman", Times, serif; 
+	font-size: 2.5em;  
+	padding: 0em 0em .3em 0em;  
+	position: relative;
+	top: .2em;
+}
+
+.content
+{
+	background-color: white;
+	color: black;    
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	border: 0;
+	width:1030px;
+	position: relative;
+	overflow: auto;
+}
+
+.navbar
+{
+	background-color: white;
+	width: 145px;
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: left;
+	vertical-align: baseline;
+	height: 100%;
+	position: absolute;
+	border-right: 5px solid #33446A;
+}
+
+img.headban
+{
+	margin: 0;
+	padding: 0px 0px 20px 0px;
+	border: 0;
+	float: right;
+}
+
+.nav
+{                                 
+	float:top left;
+	position: fixed;
+	background-color: white;
+	color: black;
+	text-align: center;
+	margin: 10px 0px 10px 0px;
+	width: 145px;
+}
+
+.main
+{               
+	display: block;
+	float: left;
+	color: black;
+	text-align: left;
+	margin: 0px 0px 0px 165px;
+	width:700px;
+}
+
+img.imgctr
+{
+	display:  block;
+	margin: 10px auto;
+}
+
+form{
+margin-bottom: 20px;
+}
+
+.sidebar
+{
+	display: block;
+	float: right;
+	height: 100%;
+	width: 145px;
+	margin: 0 10px;
+	padding: 0;
+	border: 0;
+}
+img.sidebarimg
+{
+	display:  block;
+	margin: 10px auto;
+}
+
+iframe
+{
+	display: block;
+	margin: 10px auto;
+}
+
+.nav ul
+{
+	list-style-type: none;
+	padding-right: 38px;
+}
+
+.nav li
+{
+	padding: 5px 0px 5px 0px;
+}
+
+.button{
+}
+
+.button:hover{
+}
+
+.button a{
+	border: 5px solid #01747A;
+	background-color: white;       
+	padding: .1em .5em .1em .5em;
+	text-decoration: none;
+}
+
+.button a:hover{
+border-color: #CC9900;
+}
+
+.button a:link		{color: #01747A;}
+.button a:active		{color: #01747A;}
+.button a:visited	{color: #01747A;}
+.button a:hover		{color: #9FDCDF;}
+
+.footer
+{                           
+	color:white;
+	bottom: 0em;
+	left: 0em;
+	width: 100%;
+	text-align: center;
+	margin: 15px 0;
+} 
+
+a{
+text-decoration: none;
+}
+
+a:link		{color: #4c659e;}
+a:active	{color: #788ebe;}
+a:visited	{color: #33446a;}
+a:hover		{color: #788ebe;}
+
+.submit{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #01747A;
+	border: 5px solid #01747A;
+	background-color: white;       
+	padding: .1em .5em .1em .5em;
+	text-decoration: none;
+}
+
+.submit:hover{
+	color: #9FDCDF;
+	border-color: #9FDCDF;
+}
+
+
+
+.formbox
+{  
+	display: inline;     
+	text-align: center;       
+	float: left;  
+	width:10%;
+	height:100%;  
+	padding: 4em 0em 0em 0em;      
+}
+
+.floatlt
+{
+	float: left;
+}
+
+
+.rtalign
+{
+	text-align:right;
+}
+
+.ltalign
+{
+	text-align:left;
+}
+
+.linker
+{
+	text-align:right;
+	visibility:hidden;
+}   
+
+.center
+{
+	text-align:center;
+}
+
+.bold
+{
+	font-weight:bold;
+}
+
+h1
+{
+	text-align:center;
+	font-style:bold;
+	font-size: 150%	
+}
+
+strong.reference
+{
+	font-weight:normal;
+	font-style:italic; 
+}
+
+.comment
+{
+	width: 97%;
+	float: right;
+	border: dotted;
+	border-width: 1px;
+	background-color: #FFFFCC;
+	padding: 0px 0px 5px 10px;
+}
+
+
+.horizontaldiv{
+	width: 100%;
+}
+
+.error{
+	color: red;
+}
+
+.indent{
+	padding: 0px 0px 0px 25px;
+}
+
+.bumpright{
+	margin-left: 2em;
+}
+
+.classtab{
+	width:100%;
+	font-size:.8em;
+	text-align:center;
+}
+
+tr.classhead{
+	background-color: #9AA2B5;
+	padding: 7px 0px 7px 0px;
+}
+
+tr.classrow1{
+}
+
+tr.classrow2{
+	background-color: #CCD0DA;
+}
+
+.redmarker{
+	background-color: #ffa29d;
+}
+
+.ninety{
+	font-size: .9em; 
+	width: 90%;
+	margin: 0px auto;
+}
+
+.italics{
+	font-style:italic;
+}
+
+.incorrect{
+	color:#ff0d00;
+	font-weight:bold;
+}
+
+.correct{
+	color:#019AA2;
+	font-weight:bold;
+}
+
+del{
+	color:#ff0d00;
+}
+
+ins{
+	text-decoration: none;
+	color: #ff0d00;
+}
+
+.nodisplay{
+	display: none;
+}
+
+.MathJax_Display {
+	margin: 1em 1em !important;
+	text-align: left !important;
+	display: inline !important;
+}

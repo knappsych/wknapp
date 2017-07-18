@@ -1,0 +1,8 @@
+#Ignore the private functions
+**private.php
+**testfuncs.php
+**mailform.php
+
+#Ignore the directories containing test and homework information
+protected/pages/homework
+protected/pages/tests

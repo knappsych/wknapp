@@ -1,0 +1,12 @@
+AddType x-mapp-php5 .php
+Options +FollowSymLinks
+ErrorDocument 403 /403.php 
+ErrorDocument 404 /404.php
+RewriteEngine On
+# Don't rewrite if 404 or 403
+RewriteRule /403.php -[QSA,L]
+RewriteRule /404.php -[QSA,L]
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule ^.*$ /index.php
+Options -Indexes

@@ -1,0 +1,7 @@
+<a href="http://centerforopenscience.org/"><img class="sidebarimg" src="http://wknapp.com/img/COS.png" title="COS: Devoted to openness, integrity, and reproducibility of scientific research."></a>
+<a href="http://www.r-project.org/"><img class="sidebarimg" src="http://wknapp.com/img/R.jpg" title="R: My favorite statistics environment."></a>
+<a href="http://www.psychopy.org/"><img class="sidebarimg" src="http://wknapp.com/img/PsychoPy.png" title="PsychoPy: A Python Based Experimental Platform"></a>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=collabor8r-20&marketplace=amazon&region=US&placement=0989614026&asins=0989614026&linkId=TGHKXRLQGZVHVADJ&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=4C659E&bg_color=FFFFFF">
+</iframe>
+<a href="http://www.pstnet.com/eprime.cfm"><img class="sidebarimg" src="http://wknapp.com/img/Eprime.png" title="E-prime: An excellent option with a shallow learning curve."></a>
+<a href="http://studentdiscounts.com/ibmspss22premiumdownloadgradpack.aspx"><img class="sidebarimg" src="http://wknapp.com/img/SPSS.png" title="SPSS: One of the most common stats packages in psych programs with a shallow learning curve."></a>
